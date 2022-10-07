@@ -69,7 +69,7 @@ export const Navbar = () => {
               <MenuItem>SIGN IN</MenuItem>
               <MenuItem>RIGISTER</MenuItem>
               <MenuItem>
-              <Badge badgeContent={3} color="primary">
+              <Badge badgeContent={1000} color="primary">
               <ShoppingCart></ShoppingCart>
 
               </Badge>
