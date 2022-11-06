@@ -7,6 +7,7 @@ display: flex;
 padding: 20px;
 flex-wrap: wrap;
 `
+//this goes over every product
 const Products = () => {
   return (
     <Container>
